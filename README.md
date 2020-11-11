@@ -2,7 +2,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python
 - 👯 I already know : Html, CSS
 - 📫 How to reach me: NotBlue ☭#9114
