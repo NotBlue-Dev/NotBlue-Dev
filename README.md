@@ -2,10 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Python
-- 👯 I already know : Html, CSS
+- 🌱 I’m currently learning javascript
+- 👯 I already know : Html, CSS, Python
 - 📫 How to reach me: NotBlue ☭#9114
-- ⚡ Fun fact: I am a high school student
 
 ## Statistics
 
