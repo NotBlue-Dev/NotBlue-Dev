@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 ## Statistics
 
-| Options | What it does  | Value |
-| --- | ------ | | ------- |
+| Options | What it does | Value |
+| ------- | ------------ | ------- |
 | ip | Display IPV4 | True/False |
 | name | Display Nanoleaf Name | True/False |
 | type | Display Canvas/Shape/Aurora | True/False |
