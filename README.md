@@ -8,7 +8,7 @@
   
 [CoalStudio](https://coalstudio.fr/), association of video games creator and more\
 [CoalBot](https://github.com/Nirbose/CoalBot), Discord Bot of CoalStudio\
-[NanoVirtz](https://github.com/NotBlue-Dev/virtualNanoleaf), Nanoleaf Emulator for developper
+[NanoVirtz](https://github.com/NotBlue-Dev/virtualNanoleaf), Nanoleaf Emulator for developper 
 [EchoHaptic](https://github.com/NotBlue-Dev/Echo-VR-Haptics), BVhaptic Support for Echo Arena
 
 ## Statistics :
