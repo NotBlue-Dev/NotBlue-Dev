@@ -1,8 +1,6 @@
-# Hi there 👋, I'm NotBlue
-
-- 🌱 I’m currently learning Java
+# Hi there 👋, I'm Notblue
 - 👯 I already know : Html, CSS, Python, JavaScript, NodeJS, electron
-- 📫 How to reach me: NotBlue ☭#9114
+- 📫 How to reach me: NotBlue#9114
 
 ## Top Projects :
   
