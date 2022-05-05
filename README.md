@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Notblue
-- 👯 I already know : Html, CSS, Python, JavaScript, NodeJS, electron
+- Python, JavaScript, NodeJS, electron, Html, CSS
 - 📫 How to reach me: NotBlue#9114
 
 ## Top Projects :
