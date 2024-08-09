@@ -5,7 +5,6 @@
 ## Top Projects :
 
 VRML Breachers/Onward API\
-[IGNITE](https://www.twitch.tv/ignitebreachers) Ignite 24h/7 stream mod\
 [EAST](https://github.com/NotBlue-Dev/EAST), Echo Arena streaming tool\
 [EchoHaptic](https://github.com/NotBlue-Dev/Echo-VR-Haptics), Bhaptic Support for Echo Arena\
 [NanoBeat](https://github.com/NotBlue-Dev/NanoBeatV2), Sync nanoleaf to beatsaber lights\
