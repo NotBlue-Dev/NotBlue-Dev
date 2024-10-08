@@ -1,10 +1,12 @@
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/enzodubocah)
+
 # Hi there 👋, I'm Notblue
-- Python, JavaScript, NodeJS, electron, Html, CSS, NestJS, React
-- 📫 How to reach me: NotBlue#9114
+- Python, JavaScript, NodeJS, TypeScript, Electron, Html, CSS, React, React-native
+- 📫 How to reach me on discord: notbluue
 
 ## Top Projects :
 
-VRML Breachers/Onward API\
+VRML Breachers API\
 [EAST](https://github.com/NotBlue-Dev/EAST), Echo Arena streaming tool\
 [EchoHaptic](https://github.com/NotBlue-Dev/Echo-VR-Haptics), Bhaptic Support for Echo Arena\
 [NanoBeat](https://github.com/NotBlue-Dev/NanoBeatV2), Sync nanoleaf to beatsaber lights\
