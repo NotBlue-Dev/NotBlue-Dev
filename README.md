@@ -1,8 +1,6 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/enzodubocah)
 
 # Hi there 👋, I'm Notblue
-- Python, JavaScript, NodeJS, TypeScript, Electron, Html, CSS, React, React-native
-- 📫 How to reach me on discord: notbluue
 
 ## Top Projects :
 
