@@ -12,6 +12,6 @@
 
 ## Statistics :
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NotBlue-Dev&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=NotBlue-Dev&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NotBlue-Dev&layout=compact&theme=github_dark)
+![](https://raw.githubusercontent.com/NotBlue-Dev/NotBlue-Dev/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/NotBlue-Dev/NotBlue-Dev/main/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/NotBlue-Dev/NotBlue-Dev/main/profile-summary-card-output/github_dark/4-productive-time.svg)
