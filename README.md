@@ -1,4 +1,4 @@
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/enzodubocah)
+[![NotBlue profile views](https://u8views.com/api/v1/github/profiles/64601123/views/day-week-month-total-count.svg)](https://u8views.com/github/NotBlue-Dev)
 
 # Hi there 👋, I'm Notblue
 
