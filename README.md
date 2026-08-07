@@ -12,5 +12,6 @@
 
 ## Statistics :
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NotBlue-Dev&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotBlue-Dev&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NotBlue-Dev&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=NotBlue-Dev&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NotBlue-Dev&layout=compact&theme=github_dark)
